@@ -3,6 +3,29 @@ Build type: Stable
 Device: POCO F7
 Device maintainer: Kaveer
 
+===== 17 November 2026 =====
+
+* Improved CPU efficiency by restricting background tasks to efficiency cores
+* Optimized CPU scheduling and memory management
+* Improved rendering performance with LLCC and L3 cache boosts
+* Enabled dynamic CPU core control across all clusters
+* Improved power efficiency by removing unnecessary CPU boost hints
+* Added Xiaomi SeaAudio AIDL service and audio configurations
+* Enabled adaptive bitrate for AAC audio encoding
+* Added Leica Camera
+* Improved HDR handling and Dolby Vision support
+* Optimized display frame timing for different refresh rates
+* Improved auto-brightness configuration
+* Enabled QCRIL radio power saving
+* Improved Bluetooth configuration and SELinux permissions
+* Removed unnecessary background services and unused system components
+* Removed obsolete kernel test scripts
+* Improved SELinux policies and permissions
+* Dropped redundant AVB configurations
+* Improved memory watermark handling
+* Fixed MiSyS watermark file permissions
+* Reduced unnecessary system logging
+
 ===== 17 October 2026 =====
 
 * Improved Wi-Fi battery backup by reducing unnecessary background activity

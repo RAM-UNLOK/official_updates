@@ -1,19 +1,20 @@
 {
   "response": [
     {
-      "datetime": 1792053717,
-      "filename": "CloverProject-4.0-20261015-OFFICIAL-onyx-GMS.zip",
-      "id": "c7ad9ac2daf1ab85f68afeb8f21a3e58a6743996a28b8f7453eb928fc2484989",
-      "md5": "5ac380a9c3b52c0ee2d9f98fa56d610d",
-      "size": 4532082230,
-      "url": "https://ota.thecloverproject.com/onyx/4.0/CloverProject-4.0-20261015-OFFICIAL-onyx-GMS.zip",
-      "version": "4.0",
+      "datetime": 1794683159,
+      "filename": "CloverProject-4.1-20261114-OFFICIAL-onyx-GMS.zip",
+      "id": "0c7c112771a5e63c469341fc8859006722ec4d8c57220ad1dc1b01dec3c6bc97",
+      "md5": "5cbf3bde28e8ac4e816b4a93c27a976c",
+      "size": 4313379782,
+      "url": "https://ota.thecloverproject.com/onyx/4.1/CloverProject-4.1-20261114-OFFICIAL-onyx-GMS.zip",
+      "version": "4.1",
       "romtype": "official",
       "devicename": "POCO F7",
       "maintainer": "Kaveer",
       "os_sdk_level": 37,
-      "os_patch_level": "2026-10-05",
-      "ota_property_files": "payload_metadata.bin:4763:230135,payload.bin:4763:4532073913,payload_properties.txt:4532078734:156,apex_info.pb:2182:1542,care_map.pb:3771:925,metadata:69:677,metadata.pb:814:1320"
+      "os_patch_level": "2026-11-05",
+      "ota_property_files": "payload_metadata.bin:4815:216734,payload.bin:4815:4313371413,payload_properties.txt:4313376286:156,apex_info.pb:2234:1542,care_map.pb:3823:925,metadata:69:701,metadata.pb:838:1348",
+      "ota_id": "0b0c54e13ec2a9a0"
     }
   ]
 }

@@ -1,19 +1,20 @@
 {
   "response": [
     {
-      "datetime": 1792061500,
-      "filename": "CloverProject-4.0-20261015-OFFICIAL-onyx-VANILLA.zip",
-      "id": "ff552c39188b28e3f790108909f70dbe1a95c8ff6a4f003ce386664ace2046c6",
-      "md5": "0541696da56633255a6a060f7c21c74d",
-      "size": 3356815287,
-      "url": "https://ota.thecloverproject.com/onyx/4.0/CloverProject-4.0-20261015-OFFICIAL-onyx-VANILLA.zip",
-      "version": "4.0",
+      "datetime": 1794729482,
+      "filename": "CloverProject-4.1-20261115-OFFICIAL-onyx-VANILLA.zip",
+      "id": "43cc82f1695417479c3a12b564b0f98666ed62f1aaf1b7ec84c9d452e6e6ed76",
+      "md5": "65a4fe6dad9e6faeb83256219fcfc124",
+      "size": 3342141334,
+      "url": "https://ota.thecloverproject.com/onyx/4.1/CloverProject-4.1-20261115-OFFICIAL-onyx-VANILLA.zip",
+      "version": "4.1",
       "romtype": "official",
       "devicename": "POCO F7",
       "maintainer": "Kaveer",
       "os_sdk_level": 37,
-      "os_patch_level": "2026-10-05",
-      "ota_property_files": "payload_metadata.bin:5003:201505,payload.bin:5003:3356806850,payload_properties.txt:3356811911:156,apex_info.pb:2186:1508,care_map.pb:3741:1215,metadata:69:679,metadata.pb:816:1322"
+      "os_patch_level": "2026-11-05",
+      "ota_property_files": "payload_metadata.bin:5055:200357,payload.bin:5055:3342132845,payload_properties.txt:3342137958:156,apex_info.pb:2238:1508,care_map.pb:3793:1215,metadata:69:703,metadata.pb:840:1350",
+      "ota_id": "c34ac180fc605918"
     }
   ]
 }
