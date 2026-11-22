@@ -86,8 +86,8 @@
     "image": "images/devices/rodin.png",
     "heroImage": "images/devices/download/rodin.png",
     "released": true,
-    "version": "4.0",
-    "datetime": 1792344029,
+    "version": "4.1",
+    "datetime": 1795302897,
     "variants": [
       "gms",
       "vanilla"
